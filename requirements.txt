@@ -1,0 +1,13 @@
+streamlit==1.64.0
+python-dotenv==1.2.3
+requests==2.34.2
+
+langchain
+langchain-perplexity
+langchain-tavily
+tavily-python==0.8.4
+
+beautifulsoup4==4.15.0
+readability-lxml==0.9
+trafilatura==2.2.0
+lxml==6.1.3
