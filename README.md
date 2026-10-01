@@ -139,6 +139,10 @@ http://localhost:8501
 
 The app is designed for information gathering and structured writing, especially for current events, industry analysis, and fact-based research tasks.
 
+## Demo
+
+https://multiagent-research-assistant.onrender.com/
+
 ## Important Notes
 
 - Search quality depends on the reliability of your API keys and the availability of live sources
